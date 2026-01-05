@@ -84,6 +84,10 @@ This tool is designed for legitimate purposes such as:
 - ❌ Accessing others' private keys
 - ❌ Any illegal activities
 
+## Contact
+https://t.me/cirlus0x
+Telegram: @cilus0x
+
 ## Dependencies
 
 - `express`: Backend server
